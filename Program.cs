@@ -7,8 +7,9 @@
             Console.WriteLine("Hello, World!");
 
 
-            Console.WriteLine("Яндекс ЕДА ");
-            Console.WriteLine("Деливери КЛАБ ");
+            Console.WriteLine("Яндекс ЕДА");
+            Console.WriteLine("Деливери КЛАБ");
+            Console.WriteLine("Сбер ЕДА");
         }
     }
 }

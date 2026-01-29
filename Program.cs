@@ -8,6 +8,7 @@
 
 
             Console.WriteLine("Яндекс ЕДА ");
+            Console.WriteLine("Деливери КЛАБ ");
         }
     }
 }
